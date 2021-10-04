@@ -5,8 +5,6 @@ Trained a deep neural network to denoise images of varying levels of Additive Wh
 
 
 ![image](https://user-images.githubusercontent.com/90289685/135910168-6f84771d-819b-4e5d-a740-9f39de2f6afa.png)
-![image](https://user-images.githubusercontent.com/90289685/135910278-3bd12156-7694-421d-b28a-897115c10c0b.png)
-![image](https://user-images.githubusercontent.com/90289685/135910328-32e8b5c3-4f79-48f5-8fed-289caaf82673.png)
 
 
 
